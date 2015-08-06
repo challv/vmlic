@@ -1,0 +1,2 @@
+# vmlic
+vmware license scripts
